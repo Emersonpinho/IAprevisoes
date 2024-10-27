@@ -1,3 +1,5 @@
+
+
 ---
 
 # Sistema de Previsão de Score de Crédito dos Clientes 💳🤖
@@ -88,4 +90,4 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 Este projeto está licenciado sob a **Licença MIT**. Veja o arquivo LICENSE para mais detalhes.
 
 ---
-![IAprevisoes](https://github.com/user-attachments/assets/02ab0434-b7f5-44f6-a5e0-2dce74f233d9)
+![IAprevisoes](https://github.com/user-attachments/assets/b9627228-9b49-4070-a452-2ca61b03626e)
